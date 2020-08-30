@@ -1,0 +1,13 @@
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.exe
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.deps.json
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.runtimeconfig.json
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.runtimeconfig.dev.json
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfoInputs.cache
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfo.cs
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.genruntimeconfig.cache
+C:\Users\tkach\Desktop\SkillBox\Modul4\HomeWork\HomeWork4\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csprojAssemblyReference.cache

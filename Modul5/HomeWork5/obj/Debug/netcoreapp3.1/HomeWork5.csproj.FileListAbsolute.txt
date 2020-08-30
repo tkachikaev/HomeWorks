@@ -11,3 +11,16 @@ C:\Users\tkach\Desktop\SkillBox\Modul5\HomeWork\HomeWork5\HomeWork5\obj\Debug\ne
 C:\Users\tkach\Desktop\SkillBox\Modul5\HomeWork\HomeWork5\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.dll
 C:\Users\tkach\Desktop\SkillBox\Modul5\HomeWork\HomeWork5\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.pdb
 C:\Users\tkach\Desktop\SkillBox\Modul5\HomeWork\HomeWork5\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.genruntimeconfig.cache
+E:\HomeWorks\Modul5\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.exe
+E:\HomeWorks\Modul5\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.deps.json
+E:\HomeWorks\Modul5\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.runtimeconfig.json
+E:\HomeWorks\Modul5\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.runtimeconfig.dev.json
+E:\HomeWorks\Modul5\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.dll
+E:\HomeWorks\Modul5\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.pdb
+E:\HomeWorks\Modul5\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.csprojAssemblyReference.cache
+E:\HomeWorks\Modul5\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.AssemblyInfoInputs.cache
+E:\HomeWorks\Modul5\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.AssemblyInfo.cs
+E:\HomeWorks\Modul5\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.csproj.CoreCompileInputs.cache
+E:\HomeWorks\Modul5\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.dll
+E:\HomeWorks\Modul5\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.pdb
+E:\HomeWorks\Modul5\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.genruntimeconfig.cache
